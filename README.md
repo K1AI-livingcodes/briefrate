@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/.../BRIEFRATE%20BANNER.jpg" alt="BriefRate Banner" width="100%">
+  <img src="./BRIEFRATE%20BANNER.jpg" alt="BriefRate Banner" width="100%">
 </p>
+
 # BriefRate  
 *Go negative for the first time™*  
 ---
