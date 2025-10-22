@@ -12,4 +12,4 @@ Built on fairness and simplicity, BriefRate lets people share quick, authentic v
 - Upload up to 8 images  
 - Clean public feed with zero pay-to-play bias  
 ---
-© 2025 K1 AI Labs • All Rights Reserved
+© 2025 K1 AI Labs • All Rights Reserved 
