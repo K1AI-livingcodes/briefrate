@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/.../BRIEFRATE%20BANNER.jpg" alt="BriefRate Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/.../briefrate-banner..." alt="BriefRate Banner" width="100%">
 </p>
 # BriefRate  
